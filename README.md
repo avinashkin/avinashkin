@@ -5,11 +5,7 @@
 <h1 align="center">Hi 👋, I'm Avinash Gupta</h1>
 <h3 align="center">A passionate Full-stack developer</h3>
 
-- 🌱 I’m currently working on some **Freelance projects**
-
 - 💬 Ask me about **Web Development**
-
-- 👯 I’m looking to collaborate on **Projects**
 
 - 📫 How to reach me: guptaavinash92@gmail.com
 
